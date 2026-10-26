@@ -1,13 +1,15 @@
-<p align="center"><img src="icon.svg" width="120" alt="UPang-OES Runbook icon"></p>
+<p align="center"><img src="icon.svg" width="120" alt="Runbook icon"></p>
 
-# UPang-OES Production Outage Recovery Runbook
+# University Enrollment System: Production Outage Recovery Runbook
 
 ![Document ID](https://img.shields.io/badge/ID-IT--RUNBOOK--001-blue)
 ![Version](https://img.shields.io/badge/version-1.0-green)
 ![Pages](https://img.shields.io/badge/pages-18-lightgrey)
-![Use](https://img.shields.io/badge/use-internal-red)
+![Type](https://img.shields.io/badge/type-simulated%20scenario-orange)
 
-> When a University enrollment system goes down at 2 AM and the senior admin can't be reached, this runbook gets it back up safely. It's written so a junior IT engineer can follow it from first alert to closing the incident.
+> *A simulated scenario:* when a university enrollment system goes down at 2 AM and the senior admin can't be reached, this runbook gets it back up safely. It's written so a junior IT engineer can follow it from first alert to closing the incident.
+
+> 🚫 **Simulated scenario / unofficial project.** This is a simulated exercise. It is not affiliated with, sponsored by, or endorsed by PHINMA Education or any real institution. See the [Disclaimer](#disclaimer).
 
 ## 📥 Download
 
@@ -45,11 +47,25 @@ The values shown in **blue** are **examples only**. Replace them with your real 
 
 | | |
 | --- | --- |
-| **Title** | UPang-OES Production Outage Recovery Runbook |
+| **Title** | University Enrollment System: Production Outage Recovery Runbook |
 | **Document ID** | IT-RUNBOOK-001 |
 | **Version** | 1.0 |
 | **Classification** | Internal Use |
 | **Audience** | Junior IT engineers, on-call staff |
+
+## Disclaimer
+
+**Simulated scenario.** This runbook is a fictional, simulated exercise. The outage, the incident, and the response described in it did not actually happen, and the system it describes is not a real production environment.
+
+**Not affiliated or endorsed.** This project is an independent work. It is **not affiliated with, authorized by, sponsored by, or endorsed by PHINMA Education or any real institution, or by any of their officers, employees, or related entities.** The views and content here do not represent the official position of any of them.
+
+**Names and marks.** "PHINMA Education" and any other real names, logos, and trademarks belong to their respective owners. They are used only where referenced, and no ownership or endorsement is claimed or implied.
+
+**Simulated content only.** The system details, hostnames, IP addresses, phone numbers, email addresses, names, roles, dates, and incident timeline in this runbook are **sample values** created for demonstration and learning. They do not describe any real production environment or real people's actual roles, and no real credentials are included.
+
+**No warranty.** This document is provided "as is," without warranty of any kind, express or implied. The authors are not liable for any damage, data loss, downtime, or other consequences arising from its use. Always review and adapt the procedures to your own environment, and have them approved by qualified personnel, before relying on them in a live incident.
+
+**Third-party sources.** Incident-management concepts referenced in the runbook draw on guidance from [incident.io](https://incident.io). That material remains the property of its respective owners.
 
 ## 🤝 Contributing
 
